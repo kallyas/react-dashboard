@@ -1778,10 +1778,10 @@
   resolved "https://registry.yarnpkg.com/@iconify/icons-mdi-light/-/icons-mdi-light-1.1.0.tgz#6555398866065686d89d77f986c395fe97f12364"
   integrity sha512-HXOx7aCh9jHra50GZ5lcYIgPZXgqSVEKZl/AGhZPBOjqdGO7Wz6XdajckVNNiU/vMc3EPl4IF8gx31OZ88Bdmg==
 
-"@iconify/react@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@iconify/react/-/react-3.0.1.tgz#ce2cb3f4a2b6aab5f7af082c833d869b6fb43182"
-  integrity sha512-yUskSSR80JzRSWcqNsBAG9AN802XzZgHsex8mTOkMLYcPQC3fk1XwK17ulnY5vf692OafhGCAMccR8TWKFaGdw==
+"@iconify/react@^3.2.1":
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@iconify/react/-/react-3.2.1.tgz#d18da31cec58c1aa8fdf4def451cc7e3196d88de"
+  integrity sha512-yKzixjC9ct9RC/aSGo1OGxkG2rpfhlr/urRz6k2YZlIBzn92PBTlqtSx8o8dFYEorr3eUFSCBZFzBy1yw5jsAA==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
